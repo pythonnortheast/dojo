@@ -31,5 +31,5 @@ were made up of varying degrees of ability.
 
 The outcome
 -----------
-Each of the 4 teams managed to produce working applications. You can view the 
-code here.
+Each of the 4 teams managed to produce working applications. [You can view the 
+code here] (https://github.com/pythonnortheast/dojo/tree/master/2013-06-13).
