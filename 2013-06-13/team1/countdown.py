@@ -1,11 +1,10 @@
-import webbrowser
 import random
 import subprocess
 from itertools import permutations
 import time
 
 def play_music():
-    return subprocess.Popen(['--new-window','http://www.youtube.com/watch?v=5USLUY3c-dk'], 0, r'C:\Users\kieran\AppData\Local\Google\Chrome\Application\chrome.exe')
+    return subprocess.Popen(['--new-window','http://www.youtube.com/watch?v=5USLUY3c-dk'], 0, 'chrome.exe')
 
 def get_words(filename='words.txt'):
     return frozenset([w.strip() for w in open('words.txt','rb').readlines()])

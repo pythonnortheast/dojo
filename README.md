@@ -22,7 +22,7 @@ Topic
 After a quick vote, we decided to go with a Countdown letters game solver.
 The task was to write an application which would allow the user to select
 a random sequence of 9 consonants and vowels. The application could then
-be used to provide the longest allowable word made up from the chosen letter.
+be used to provide the longest allowable word made up from the chosen letters.
 
 Teams
 -----
