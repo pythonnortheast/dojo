@@ -1,9 +1,9 @@
 # 2013-10-17: Countdown numbers game solver #
 
 This month we continued the theme of implementing day-time TV games
-and opted to try to code up a
-[Countdown numbers game](http://en.wikipedia.org/wiki/Countdown_(game_show)#Numbers_round)
-solver.
+and opted to try to code up a <a
+href="http://en.wikipedia.org/wiki/Countdown_(game_show)#Numbers_round">
+Countdown numbers game </a> solver.
 
 
 Suggested dojo problems:
