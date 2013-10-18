@@ -5,6 +5,6 @@ implemented
 [Conway's game of life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life). 
 
 Two out of the three teams produced some working code and the third
-team was very close. If you fancy finishing it fork it and off you go!
+team (team 2) was very close. If you fancy finishing it fork it and off you go!
 
 
