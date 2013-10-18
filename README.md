@@ -4,32 +4,18 @@ dojo
 Code produced at Python North East - Code Dojo
 ----------------------------------------------
 
-Our first Code Dojo took place on Thurday 13th June 2013. We began by writing
-a list of suggested coding tasks on the whiteboard, then voted on which one
-we'd like to work on.
+This repo contains the code produced at the Python North East meet
+ups. Each directory corresponds to a different meet up and then the
+subdirectories contain the code from the individual teams.
 
-Suggestions
------------
-1. Text adventure game
-2. Tic Tac Toe/ Noughts and Crosses
-3. Countdown letters game
-4. A maze
-5. A Twitter/ web API
-6. (Something else I can't remember now)
+In chronological order we have had: 
 
-Topic
------
-After a quick vote, we decided to go with a Countdown letters game solver.
-The task was to write an application which would allow the user to select
-a random sequence of 9 consonants and vowels. The application could then
-be used to provide the longest allowable word made up from the chosen letters.
+ - 2013-06-13: Countdown letters game solver
 
-Teams
------
-We split up into 4 teams of 2 or 3 to a team. The teams were chosen at random and
-were made up of varying degrees of ability.
+ - 2013-09-12: Conway's game of life 
 
-The outcome
------------
-Each of the 4 teams managed to produce working applications. [You can view the 
-code here] (https://github.com/pythonnortheast/dojo/tree/master/2013-06-13).
+ - 2013-10-17: Countdown numbers game solver
+ 
+ 
+
+
