@@ -16,6 +16,10 @@ In chronological order we have had:
 
  - 2013-10-17: Countdown numbers game solver
  
+ - 2013-11-20: Ascii art LCD-style clock 
+ 
+
+ 
  
 
 
