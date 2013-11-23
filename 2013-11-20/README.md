@@ -21,7 +21,8 @@ Outcome
 -----------
 Each of the 3 teams managed to produce working applications (my team, team1
 didn't get the clock bit working but had the display of the LCD
-characters done). [You can view the 
-code here] (https://github.com/pythonnortheast/dojo/tree/master/2013-11-20).
+characters done). [You can view the code here][code].
 
-__TODO team 2 and 3 please upload your code!
+[code]: https://github.com/pythonnortheast/dojo/tree/master/2013-11-20
+
+**TODO:** team 3 please upload your code!
