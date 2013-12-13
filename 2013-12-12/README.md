@@ -27,8 +27,14 @@ it finally had it's day.
 Outcome
 -----------
 
-Each of the 4 teams managed to produce working games, their were
-varying degrees of narrative and complexity to the games.
+Each of the 4 teams managed to produce working games, there were
+varying degrees of complexity to the narrative and player
+interaction. Most teams kept the game engine design simple - either
+storing the data in dictionaries or simple classes. One team opted to
+store the game story in a json file that the engine the parsed. Team 1
+true to form ended their game by getting the browser to play the
+Coca-Cola advert on YouTube.
+
 [You can view the code here][code].
 
 
