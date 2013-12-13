@@ -10,14 +10,14 @@ management system) we steeled ourselves for the code dojo.
 Returning to the democratic process of choosing a dojo problem, our
 suggested candidates were: 
 
-    - [Pig Latin][piglatin] translator to translate Twelfth Night;
-    
-    - [Robot game][robotgame] - build an AI bot to control your army
+ - [Pig Latin][piglatin] translator to translate Twelfth Night;
+ 
+ - [Robot game][robotgame] - build an AI bot to control your army
       of robots to do battle with another army;
     
-    - Ascii art Christmas tree;
+ - Ascii art Christmas tree;
     
-    - Christmas themed text adventure game.
+ - Christmas themed text adventure game.
     
 Finally, after Kieran suggesting the text adventure game every month,
 it finally had it's day.
