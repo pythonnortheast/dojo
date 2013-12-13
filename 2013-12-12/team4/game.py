@@ -23,8 +23,6 @@ class Location:
 		# shuffle actions order
 		random.shuffle(actions)
 
-		print next_level_action, actions
-
 		# display possible actions
 		for i, action in enumerate(actions):
 			print "[{0}] {1}".format(i, action)
