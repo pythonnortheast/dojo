@@ -1,0 +1,106 @@
+[{
+	"description": "You have received a letter from a Santa.",
+	"actions": [
+		[
+			["read the letter", "Letter says: 'I need your help. Could you come and visit me?'"],
+			["eat the letter", "The letter is written with large font. It will take you a week to eat it."]
+		],[
+			["go to the North Pole", 1],
+			["go home", "Hey! You can't let down all the kids!"]
+		]
+	]
+},{
+	"description": "You are in the Santa's house.",
+	"actions": [
+		[
+			["ask what's wrong", "Brian, the reindeer is missing."],
+			["ask for a present", "Santa says you should wait till Christmas."],
+			["ask for a cup of tea", "Santa brings you a cup of deliciously smelling warm tea."]
+		],[
+			["ask for Brian last known location", "Last Tuesday Santa saw Brian in the Reindeer Hotel.\nHe was preparing at a gym for the Christmas time."],
+			["ask why Santa named a reindeer Brain", "It's after Brian May, the guitarist from Queen."],
+			["ask why Brian is so important", "He's the fastest and strongest reindeer ever."]
+		],[
+			["go to the hotel", 2],
+			["ask why reindeers live in a hotel", "Because Santa can call them when needed.\nThere is no phone in the stable."],
+			["ask what reindeers do at a gym", "They working out to look good on Christmas postcards."]
+		]
+	]
+},{
+	"description": "You arrived at the luxury 5 star hotel.",
+	"actions": [
+		[
+			["find a manager", "You enter the manager's office. He offers you a tea."],
+			["rent a room", "The receptionist says they are fully booked.\nApparently they are very popular among reindeers these days."],
+			["ask for a swimming pool", "They only have ice skating ring right now.\nBut you can come back in summer."]
+		],[
+			["ask if he knows Brian", "Brian is the manager's favourite raindeer. They spoke 3 days ago.\nBrian was talking about a voodoo cult. Probably was on LSD again."],
+			["ask for a green tea", "The manager has only Earl Gray. How did they get 5 stars?"],
+			["ask for sugar", "The manager starts a long tirade about severe effects\nof sugar overdose on the life longevity. You make notes."],
+			["ask for skating shoes your size", "They hotel only have one size fit all reindeer size."]
+		],[
+			["go back to the receptionist", "The receptionist is gone. She didn't log out from her computer."],
+			["ask where is the nearest Hounfour", "The manager haven't heard this word before. What an ignorant."],
+			["ask how much is LSD these days", "It depends on the bitcoin price. Should be less than 0.02 BTC."],
+			["ask where did he get such a nice desk", "In Sweden. It's close to the North Pole. And have meatballs."]
+		],[
+			["leave the hotel", 3],
+			["read her mail", "She is having an affair with one reindeer but secretly loves another."],
+			["change her password to 12345", "It's GNU/Linux. You need to know old password first."],
+			["search for 'giri-giri shop'", "There is one in Haiti. But that's beyond your sledge distance."]
+		]
+	]
+},{
+	"description": "While you are walking towards you sledge you see a mumbling man next to it.",
+	"actions": [
+		[
+			["jump on a sledge and run over him", "You're sledge runner cut his head off and he goes quiet.\nYou see more mumbling men in front of you."],
+			["ask him what's up", "The man says: 'giiiif meeeee yooooo braaayn'."],
+			["ask if he knows Brian", "The man says: 'braaaaayn, yeeezzzz, mooooo braaaaayn'."],
+			["chucknorriskick him", 4]
+		],[
+			["follow the zombies", "You arrive at a wooden house. All zombies go inside."],
+			["turn back to the hotel", 5]
+		],[
+			["search around the house", "You find a canister with gasolin and set the house on fire.\nThe snow around the house melts. As do the zombies inside."],
+			["spy through the keyhole", "It's dark inside. But you hear the mumbling: 'braaaaynzzz'."],
+			["look through windows", "There is no light inside. You see nothing."]
+		],[
+			["follow the zombies snow trail", 8],
+			["perform a ritual dance around the house", "You got some steps wrong. Hopefully no one has recorded it to post on youtube."],
+			["check backpack for potatoes to grill", "Nope. Some reindeer must have eaten it while you were talking to Santa."]
+		]
+	]
+},{
+	"description": "You miss the round house kick and fall into a snow drift.\nThe man jumps on you and eats your brain.",
+	"actions": []
+},{
+	"description": "More zombies appear around you. They push you off the sledge.",
+	"actions": [
+		[
+			["run to your backpack", "You dodge the zombies and take your katana from the backpack."],
+			["dig in the snow to hide", 6],
+			["call you mother to say goodbye", "You dropped the phone somewhere in the snow."]
+		],[
+			["target the head, on cut one kill", "You slowly kill the zombies as they come at you.\nAfter 16 minutes all 32 of them are dead. Killed dead."],
+			["wreck havoc killbillstyle", 7]
+		],[
+			["follow the zombies snow trail", 8],
+			["build a pyramid of corpses", "It looks very impressive from a distance. Work of art."],
+			["check if all zombies are killed", "One seems to be moving. It's just the wind. You killed them all."]
+		]
+	]
+},{
+	"description": "Zombies sniff you out. They rip off your legs and eat your brain.",
+	"actions": []
+},{
+	"description": "You take down 16 zombies in the first 4 minutes.\nThen you get tired. They eat you alive.\n",
+	"actions": []
+},{
+	"description": "You arrive at a Hounfour. It is abandoned.\nYou see blood at the altar. It has bitter, metalic taste\nand a faint chemical smell - like a bad quality LSD.\nPoor Brain. It's time to call Santa.",
+	"actions": [
+		[
+			["play again", 0]
+		]
+	]
+}]
