@@ -18,6 +18,8 @@ In chronological order we have had:
  
  - 2013-11-20: Ascii art LCD-style clock 
  
+ - 2013-12-12: Christmas themed text adventure game
+ 
 
  
  
