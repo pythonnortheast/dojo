@@ -20,6 +20,8 @@ In chronological order we have had:
  
  - 2013-12-12: Christmas themed text adventure game
  
+ - 2014-01-15: Maze generator
+ 
 
  
  
