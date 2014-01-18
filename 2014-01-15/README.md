@@ -16,21 +16,30 @@ The suggestions for this month's dojo problem were:
  
  - Chess validator
 
+ - Dice game (based on Settlers of Catan)
 
-We chose to _try_ to create a maze generator. 
+
+We chose to _try_ to create a maze generator.
+
 
 Outcome
 -------
 
-This month we had five teams. Everyone gave it a good attempt with
-some different solutions implemented.
+We started with five teams but one of them split (artistic differences)
+and we ended up with six final solutions.
+
+The mazes we were able to generate were really different. Starting
+from empty ones (ah, those display bugs), through partialy generated
+(due to ambitious implementation ideas), not difficult (with easily
+spottable solution) to quite challenging ones (at least at first
+sight).
 
 [You can view the code here][code].
 
+**TODO:**
+Teams 1, 2, 3 and 6 please upload your code!
+
 
 [piglatin]: http://en.wikipedia.org/wiki/Pig_Latin
-
-
 [code]: https://github.com/pythonnortheast/dojo/tree/master/2014-01-15
 
-**TODO:** teams 1,2,3 and 5 please upload your code!
