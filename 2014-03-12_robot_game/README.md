@@ -12,9 +12,9 @@ Outcome
 -------
 
 The different versions of the bots that we created in the [tutorial](https://github.com/pythonnortheast/slides/tree/master/2014/mar)
-part are in the [reference_bots]() directory.
+part are in the [reference_bots](https://github.com/pythonnortheast/dojo/tree/master/2014-03-12_robot_game/reference_bots) directory.
 
-Please add your bots to the [dojo_bots]() directory, ensuring they are
+Please add your bots to the [dojo_bots](https://github.com/pythonnortheast/dojo/tree/master/2014-03-12_robot_game/dojo_bots) directory, ensuring they are
 uniquely named. 
 
 We had one set of battles between two of the teams and unfortunately
