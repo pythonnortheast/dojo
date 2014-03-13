@@ -24,21 +24,27 @@ def run(size):
     grid = [["X" for x in range(size) ] for x in range(size)]
     print_maze(grid)
 
-    start = (0, random.randint(0, size-1))
-    end = (size-1, random.randint(0, size-1))
+    # start at top, end on bottom row
+
+    # in order to have walls at the edge the col position of start and
+    # end has to be between col 1 and size -2:
+    start = (0, random.randint(1, size-2))
+    end = (size-1, random.randint(1, size-2))
 
     if pick(grid, size, start, end, start):
         print "Solved"
-        print grid
-
+        print_maze(grid)
 
 
 def pick(grid, size, start, end, position):
     grid = copy.deepcopy(grid)
-    if position == end:
-        return True
+    # __TODO__ Change this:
     # find all our neighbours
     neighbours = [(position[0]+DIRS[i][0], position[1]+DIRS[i][1]) for i in range(4)]
+    if end in neighbours:
+        position = end
+        grid[position[0]][position[1]] = "E"
+        return True
     directions = [ d for d in (0, 1, 2, 3)
                    if (neighbours[d][0] >= 0 and neighbours[d][0] < size)
                    and (neighbours[d][1] >= 0 and neighbours[d][1] < size)
@@ -67,8 +73,15 @@ def pick(grid, size, start, end, position):
     # shuffle list of neighbours
     random.shuffle(directions)
 
-    print directions
+    print 'directions',  directions
     print 'position', position
+    if position[0] == size-1:
+        raw_input()
+
+
+    # currently finding no possible directions when at the end of
+    # the maze
+
     grid[position[0]][position[1]] = " "
     print 'start', start
     print 'end', end
@@ -88,4 +101,4 @@ def pick(grid, size, start, end, position):
 
 
 if __name__ == "__main__":
-    run(41)
+    run(11)

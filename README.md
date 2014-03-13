@@ -22,6 +22,8 @@ In chronological order we have had:
  
  - 2014-01-15: Maze generator
  
+ - 2014-03-15: Robot game tutorial and dojo challenge
+ 
 
  
  
