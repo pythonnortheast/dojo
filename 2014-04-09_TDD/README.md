@@ -9,7 +9,7 @@ This month's dojo challenge was a follow on from the
 [talk](https://github.com/pythonnortheast/slides/tree/master/2014/apr)
 Alex gave about test driven development. The idea was to do a simple
 problem but using test driven development. Alex suggested the
-follosing problems:
+following problems:
 
   1. Write a module that 'manages' Polar coords. Allow transformation
   between Cartesian and polar coords.
@@ -43,8 +43,7 @@ you’re working on.
 
 
 
-Outcome
--------
+##Outcome
 
 
 Please add your group's TDD code to the [dojo](https://github.com/pythonnortheast/dojo/tree/master/2014-04-12_TDD) directory, ensuring they are
