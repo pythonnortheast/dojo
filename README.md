@@ -10,6 +10,8 @@ subdirectories contain the code from the individual teams.
 
 In anti-chronological order we have had:
 
+ - 2014-05-07: Eurovision Song Contest score web service 
+ 
  - 2014-04-09: Test driven development
  
  - 2014-03-15: Robot game bot tutorial 
