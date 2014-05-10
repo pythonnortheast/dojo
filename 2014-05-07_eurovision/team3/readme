@@ -1,0 +1,12 @@
+Setup/start:
+
+- pip install from requirements.txt
+- python manage.py syncdb
+- python manage.py setup_data
+- python manage.py runserver
+
+Views:
+
+- /scores/dumps/ - first attempt simple json dump
+- /scores/ - started looking at the rest framework
+- /admin/ - normal django admin
