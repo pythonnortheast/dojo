@@ -1,0 +1,26 @@
+[
+    {
+        "pk": 1,
+        "model": "api.country",
+        "fields": {
+            "name": "United Kingdom",
+            "code": "uk"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "api.country",
+        "fields": {
+            "name": "France",
+            "code": "fr"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "api.country",
+        "fields": {
+            "name": "Germany",
+            "code": "de"
+        }
+    }
+]
