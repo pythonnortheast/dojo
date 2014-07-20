@@ -1,23 +1,19 @@
-dojo
-====
-
-Code produced at Python North East - Code Dojo: January 2014
-------------------------------------------------------------
+Python North East - Code Dojo: January 2014
+-------------------------------------------
 
 The suggestions for this month's dojo problem were:
 
  - [Pig Latin][piglatin] translator to translate Twelfth Night;
 
  - Sudoko solver
- 
+
  - Maze generator
- 
+
  - Minesweeper
- 
+
  - Chess validator
 
  - Dice game (based on Settlers of Catan)
-
 
 We chose to _try_ to create a maze generator.
 
@@ -34,12 +30,8 @@ from empty ones (ah, those display bugs), through partialy generated
 spottable solution) to quite challenging ones (at least at first
 sight).
 
-[You can view the code here][code].
-
 **TODO:**
 Teams 1, 2, 3 and 6 please upload your code!
 
 
 [piglatin]: http://en.wikipedia.org/wiki/Pig_Latin
-[code]: https://github.com/pythonnortheast/dojo/tree/master/2014-01-15
-
