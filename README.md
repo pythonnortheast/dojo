@@ -9,7 +9,9 @@ ups. Each directory corresponds to a different meet up and then the
 subdirectories contain the code from the individual teams.
 
 In anti-chronological order we have had:
-
+ 
+ - 2014-07-16: Blackjack game
+ 
  - 2014-06-11: Robot game part deux 
 
  - 2014-05-07: Eurovision Song Contest score web service 
