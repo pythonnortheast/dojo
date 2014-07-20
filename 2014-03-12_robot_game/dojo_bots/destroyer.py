@@ -27,7 +27,6 @@ class Robot:
 
 		# commit suicide if surrounded and likely to die soon
 		if len(neighbours) >= 2 and self.hp < 1 + len(neighbours) * 10:
-			print "BOOOM", self.location
 			return ["suicide"]
 
 		# choose an enemy to destroy
