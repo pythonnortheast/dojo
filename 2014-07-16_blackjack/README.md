@@ -19,7 +19,7 @@ Outcome
 We split into three teams and tried to implement the game mechanics
 without any betting.
 
-__TODO__: Please add your cod eto the repository.
+__TODO__: Please add your code to the repository.
 
 
 [rpsls]: https://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-spock
