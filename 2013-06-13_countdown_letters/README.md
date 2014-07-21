@@ -1,8 +1,5 @@
-dojo
-====
-
-Code produced at Python North East - Code Dojo
-----------------------------------------------
+Python North East - Code Dojo: June 2013
+----------------------------------------
 
 Our first Code Dojo took place on Thurday 13th June 2013. We began by writing
 a list of suggested coding tasks on the whiteboard, then voted on which one
@@ -29,7 +26,6 @@ Teams
 We split up into 4 teams of 2 or 3 to a team. The teams were chosen at random and
 were made up of varying degrees of ability.
 
-The outcome
------------
-Each of the 4 teams managed to produce working applications. [You can view the 
-code here] (https://github.com/pythonnortheast/dojo/tree/master/2013-06-13).
+Outcome
+-------
+Each of the 4 teams managed to produce working code.
