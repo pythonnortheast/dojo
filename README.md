@@ -10,6 +10,7 @@ subdirectories contain the code from the individual teams.
 
 In anti-chronological order we have had:
 
+ - 2015-10-14: Appetisers
  - 2014-08-13: Rock-Paper-Scissors-Lizard-Spock
  - 2014-07-16: Blackjack game
  - 2014-06-11: Robot game part deux
